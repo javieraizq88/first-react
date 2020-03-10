@@ -1,7 +1,7 @@
 {
   "name": "dia11",
   "version": "1.0.0",
-  "description": "$ npm init -y", 
+  "description": "$ npm init -y",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -10,5 +10,13 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/javieraizq88/first-react.git"
+  },
+  "bugs": {
+    "url": "https://github.com/javieraizq88/first-react/issues"
+  },
+  "homepage": "https://github.com/javieraizq88/first-react#readme"
 }
